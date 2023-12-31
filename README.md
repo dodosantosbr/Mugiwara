@@ -12,7 +12,7 @@ O Mugiwara é um site que simula o fã pages do anime One Piece.
 ## 🔗 Deploy
 
 Acesse o projeto finalizado no link a seguir !!
-[VERCEL]()
+[VERCEL](https://dodosantosbr.github.io/Mugiwara/)
 
 ## :memo: Licença
 
